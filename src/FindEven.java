@@ -14,6 +14,10 @@ public class FindEven {
             count ++;
         }
 
+        for (int i = 1; i <= 10; i++){
+            System.out.println("Ich bin Durchlauf Nummer: " + i);
+        }
+
     }
 
 
