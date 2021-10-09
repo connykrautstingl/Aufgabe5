@@ -18,6 +18,10 @@ public class FindEven {
             System.out.println("Ich bin Durchlauf Nummer: " + i);
         }
 
+        for (int j = 10; j > 0; j--){
+            System.out.println("Durchlauf Nummer: " + j);
+        }
+
     }
 
 
