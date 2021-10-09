@@ -22,6 +22,11 @@ public class FindEven {
             System.out.println("Durchlauf Nummer: " + j);
         }
 
+        // k + 5 => k = k + 5
+        for (int m =20; m <= 90; m += 5){
+            System.out.println("5-er Schritte: " + m);
+        }
+
     }
 
 
